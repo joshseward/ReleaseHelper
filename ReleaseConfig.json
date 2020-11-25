@@ -1,0 +1,6 @@
+{
+  "CheckOutBranch": "develop",
+  "UsingGitFlow": true,
+  "PackageJsonPath": "package.json",
+  "ForcePushBranch": "master"
+}
